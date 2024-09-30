@@ -20,7 +20,8 @@ A dynamic drug delivery mission script for FiveM, compatible with ESX Legacy.
 
 1. Clone this repository into your `resources` folder
 2. Add `ensure ed_gofast` to your `server.cfg`
-3. Configure the script in `shared/config.lua` according to your needs
+3. Add `items.lua` to your `ox_inventory/data/items.lua`
+4. Configure the script in `shared/config.lua` according to your needs
 
 ## Configuration
 
@@ -61,7 +62,8 @@ Un script de missions de livraison de drogue dynamique pour FiveM, compatible av
 
 1. Clonez ce dépôt dans votre dossier `resources`
 2. Ajoutez `ensure ed_gofast` à votre `server.cfg`
-3. Configurez le script dans `shared/config.lua` selon vos besoins
+3. Ajoutez `items.lua` dans `ox_inventory/data/items.lua`
+4. Configurez le script dans `shared/config.lua` selon vos besoins
 
 ## Configuration
 
