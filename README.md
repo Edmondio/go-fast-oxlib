@@ -1,3 +1,5 @@
+![go fast](https://github.com/user-attachments/assets/362c1679-abdb-46b8-888b-131993d8590a)
+
 # Go-Fast for FiveM
 
 A dynamic drug delivery mission script for FiveM, compatible with ESX Legacy.
